@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-Notes for Applied Graph Algorithms
+## Notes for Applied Graph Algorithms
 
 The [Cypher Refresher](https://neo4j.com/graphacademy/online-training/applied-graph-algorithms/part-1/) refers to a Yelp Sandbox. Didn't see that as an option:
 
@@ -10,7 +8,9 @@ This command ran:
 
 ![Image](imgs/yelp_play_cmd.png)
 
-with no problem in a Blank Sandbox, maybe the Yelp Sandbox has been discontinued in favor of the script?
+with no problem in a Blank Sandbox
+
+_Maybe the Yelp Sandbox has been discontinued in favor of the script?_
 
 Bit of a problem there, the script does not start with a database import. But I found this [Video](https://www.youtube.com/watch?v=7f2Tdn94JhY&feature=youtu.be)
 
@@ -28,8 +28,8 @@ or here: `https://www.yelp.co.uk/dataset/download`
 
 Possible useful resources
 
-[Arrow tool](http://www.apcjones.com/arrows/)
-[Graph Algorithms Docs](https://neo4j.com/docs/graph-algorithms)
-[Kaggled hosted json datasets](https://www.kaggle.com/yelp-dataset)
-[Yelp Data set examples](https://github.com/Yelp/dataset-examples)
-[Basic node file server](https://stackoverflow.com/questions/7268033/basic-static-file-server-in-nodejs)
+- [Arrow tool](http://www.apcjones.com/arrows/)
+- [Graph Algorithms Docs](https://neo4j.com/docs/graph-algorithms)
+- [Kaggled hosted json datasets](https://www.kaggle.com/yelp-dataset)
+- [Yelp Data set examples](https://github.com/Yelp/dataset-examples)
+- [Basic node file server](https://stackoverflow.com/questions/7268033/basic-static-file-server-in-nodejs)
