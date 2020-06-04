@@ -1,6 +1,4 @@
-## Notes for Applied Graph Algorithms
-
-The [Cypher Refresher](https://neo4j.com/graphacademy/online-training/applied-graph-algorithms/part-1/) refers to a Yelp Sandbox. Didn't see that as an option:
+## Resources!
 
 Lookit All This Cool Stuff
 
